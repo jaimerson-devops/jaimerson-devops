@@ -18,4 +18,4 @@ Atualmente focado em:
 
 ## 📫 Contato
 - Email: jaimersonpos@gmail.com
-- LinkedIn: https://linkedin.com/in/jaimerson-leal
+- LinkedIn: https://linkedin.com/in/jaimerson-lopes
